@@ -2,6 +2,7 @@
 <head>
 <br>
 	<title> Easy Recipes </title>
+	<meta name="verify-admitad" content="f901b8171a" />
 
 </head>
 <body style="background-color: #FFE4C4";>	
@@ -51,7 +52,7 @@ Notes:<br></h2>
 
 
 <center><h2   style="color:#A52A2A;font-style : oblique; text-shadow: 2px 2px 5px red ">Bon Appetit</h2></center>
-<center><img style="width:400px;box-shadow: 10px 10px 5px brown; border-radius: 50%; " src="cho2.png" /><br><br></center>
+<center><img style="width:400px;box-shadow: 10px 10px 5px brown; border-radius: 30%; " src="cho2.png" /><br><br></center>
 
 
 <hr color="#A52A2A">
